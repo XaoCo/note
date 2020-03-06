@@ -66,4 +66,4 @@
 
 30. ORM（Object Relational Mapping）框架采用[元数据](https://baike.baidu.com/item/%E5%85%83%E6%95%B0%E6%8D%AE/1946090)来描述对象与关系映射的细节，元数据一般采用XML格式，并且存放在专门的对象一映射文件中。例如 mybatis
 
-31. ​
+31. ​清理打包指令：mvn clean compile package
